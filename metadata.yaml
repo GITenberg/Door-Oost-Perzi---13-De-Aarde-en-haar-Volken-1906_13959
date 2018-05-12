@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5303
     wikipedia: http://lafayette.150m.com/syk137258.html
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13959#Door-Oost-Perzi---13-De-Aarde-en-haar-Volken-1906
 gutenberg_bookshelf: De Aarde en haar Volken
 gutenberg_issued: '2004-11-05'
 gutenberg_type: Text
